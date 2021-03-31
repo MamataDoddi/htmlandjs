@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    border: powderblue;
+    border-width: 10px;
+    border-radius: 10px;
+
+}
+p{
+    background-color: gray;
+    border: 4px dotted greenyellow;
+}
+body{
+    background-color: rgb(235, 252, 5);
+}
+
+.firstdiv{
+    color: red;
+    border: 10px;
+}
+#divp{
+    background-color: blue;
+    border: 4px double red;
+}
